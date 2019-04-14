@@ -13,3 +13,11 @@
 .imgSolo {
     width: 95%
 }
+
+.tamanho-img {
+    height: 220px;
+}
+
+.black {
+    background-color: black;
+}
